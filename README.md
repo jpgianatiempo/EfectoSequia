@@ -12,7 +12,7 @@ Para determinar los distintos escenarios de sequía y sus consecuencias sobre el
 
 ![Distribución de rendimientos de soja](./Graphs/Rinde_soja_por_enso.png)
 
-![Distribución del área perdida de soja](./Graphs/Area_perdida_soja_por_enso.png)
+![Distribución del área perdida de maíz](./Graphs/Area_perdida_maíz_por_enso.png)
 
 Seleccionando únicamente las campañas afectadas por la niña, se calculó el rinde y el porcentaje de área perdida mínima, máxima y media por cada zona PAS. Luego, a las estimaciones de área sembrada 2021/22 se les aplicaron los resultados obtenidos para llegar a la producción de los distintos escenarios teniendo en cuenta las siguientes definiciones:
 
